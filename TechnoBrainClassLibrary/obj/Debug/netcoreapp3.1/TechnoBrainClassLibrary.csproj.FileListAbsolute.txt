@@ -1,0 +1,9 @@
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\bin\Debug\netcoreapp3.1\TechnoBrainClassLibrary.deps.json
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\bin\Debug\netcoreapp3.1\TechnoBrainClassLibrary.dll
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\bin\Debug\netcoreapp3.1\TechnoBrainClassLibrary.pdb
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\obj\Debug\netcoreapp3.1\TechnoBrainClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\obj\Debug\netcoreapp3.1\TechnoBrainClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\obj\Debug\netcoreapp3.1\TechnoBrainClassLibrary.AssemblyInfo.cs
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\obj\Debug\netcoreapp3.1\TechnoBrainClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\obj\Debug\netcoreapp3.1\TechnoBrainClassLibrary.dll
+C:\Users\Cyrus Muchiri\source\repos\TechnoBrainClassLibrary\TechnoBrainClassLibrary\obj\Debug\netcoreapp3.1\TechnoBrainClassLibrary.pdb
